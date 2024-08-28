@@ -1,2 +1,2 @@
 # BTLO-Barcode-world
-Script del lab Barcode world
+Script del challenge Barcode world
